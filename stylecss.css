@@ -1,0 +1,98 @@
+
+body {
+  background-color: lightblue;
+}
+#navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:blueviolet;
+  
+    
+  }
+  #lin {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  
+  }
+  div p{
+    font-size: 1em;
+    color:blue;
+}
+#h3{
+    text-align: center;
+}
+#p1{ 
+    font-style: normal;
+    text-align: center;
+    font-size: 1em;
+   
+}
+#showcasepic {
+  margin: auto;
+  width: 50%;
+
+}
+#skill{
+ text-align: center;
+ color:blue;
+}
+#set{
+  text-align: center;
+  list-style-type: none;
+  font-size: large;
+  color:blue;
+ }
+ #contact{
+  text-align: center;
+  list-style-type: none;
+  color:blue;
+ }
+
+#p2{
+  text-align: center;
+  color:blue;
+
+}
+#image{
+  margin:auto;
+  width:50%;
+}
+#image1{
+  margin:auto;
+  width:30%;
+  align-items: center;
+}
+#p3{
+  text-align: center;
+}
+
+.lin li{
+    text-align: center;
+}
+  #navigation li {
+    float: left;
+  }
+  
+  #navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  #navigation li a:hover {
+    background-color:blue;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:burlywood;
+    color: white;
+    text-align: center;
+  }
